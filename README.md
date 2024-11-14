@@ -20,4 +20,6 @@
 ### f) finetune unsloth for mental health development chatbot
 ### g) use unsloth to finetune a model and export to ollama and show inference
 
+## Demos
+Found in Folders
 
